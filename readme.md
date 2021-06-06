@@ -9,7 +9,7 @@ nosso app é um aplicativo de localização e reserva de restaurantes
 proximos da sua localização. 
 O FindFood é um app para as pessos que viajam para algum lugar que nao conhece e tem interece em almoçar ou jantar em algum restaurante 
 e nao sabe aonde encontrar o melho lugar para ir, no FindFood as pessoas conssegem encontar
-os restaurantes com melhores avaliação perto de sua localização e fazer reservas pelo app.   
+os melhores restaurantes e fazer reservas entrando em contato com o restaurante.   
    
 ###  Equipe
 Eduardo Araújo dos Santos Lemos RA: 116729 (DEV)
@@ -23,13 +23,8 @@ Everton Guilherme Morais da Silva RA:0115695 (PO)
 
 -Cadastrar usuario.
 -Encontrar restaurante.
--pesquisar preços.
--filtrar---restaurantes com estacionamento,restaurantes ao ar livre.
+-verificar localizaçao.
 -reservar.
--avaliaçao.
--localizaçao.
--formas de pagamento.
--notificação.
 -comunicaçao com o restaurante.
 
 
